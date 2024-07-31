@@ -29,4 +29,4 @@
 ✅ Test the APIs with Postman
 ✅ Understand API Security
 
-⚠️ Link to the course in the comments below!
+
